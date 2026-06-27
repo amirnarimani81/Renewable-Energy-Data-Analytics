@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1> Energy Analytics & Data Science Portfolio</h1>
+<h1> Energy Analytics & Data Science Projects</h1>
 
 <p>
 <b>Energy Analytics • Machine Learning • Deep Learning • Time Series Forecasting • Renewable Energy • Exploratory Data Analysis</b>
@@ -21,7 +21,7 @@ This repository showcases a collection of end-to-end <b>Energy Analytics</b>, <b
 </p>
 
 <p>
-The projects cover the complete data science lifecycle, including data collection, preprocessing, exploratory data analysis, statistical analysis, time series forecasting, feature engineering, predictive modeling, business interpretation, and visualization.
+The projects cover the complete data science lifecycle, including data collection, preprocessing, exploratory data analysis, time series forecasting, feature engineering, predictive modeling, business interpretation, and visualization.
 </p>
 
 <p>
