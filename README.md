@@ -412,14 +412,4 @@ The portfolio demonstrates practical analytics solutions for real-world challeng
 
 <hr>
 
-<div align="center">
-
-<h2> Portfolio Summary</h2>
-
-<p>
-
-This portfolio demonstrates practical applications of <b>Data Analytics</b>, <b>Machine Learning</b>, and <b>Deep Learning</b> in solving real-world challenges across renewable energy systems, electricity demand forecasting, energy price prediction, and solar power generation. By integrating statistical analysis, time series modeling, visualization, and business intelligence, these projects provide data-driven insights that support sustainable energy planning, operational optimization, and informed engineering decision-making.
-
-</p>
-
 </div>
