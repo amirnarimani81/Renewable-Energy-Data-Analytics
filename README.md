@@ -187,7 +187,7 @@ Regression Metrics
 
 <td>
 
-<b>☀ Solar Power Generation Analytics</b>
+<b> Solar Power Generation Analytics</b>
 
 </td>
 
